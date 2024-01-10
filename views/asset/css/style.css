@@ -1,0 +1,13 @@
+.container {
+    height: auto;
+    width: auto;
+}
+body {
+    background-color: #ca0226 !important;
+}
+.logo img{
+    width: 136px;
+    height: 90px;
+    position: relative;
+    right: 40px;
+}
