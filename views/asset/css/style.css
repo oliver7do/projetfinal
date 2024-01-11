@@ -6,8 +6,12 @@ body {
     background-color: #ca0226 !important;
 }
 .logo img{
-    width: 136px;
-    height: 90px;
-    position: relative;
+    width: 60px;
+    height: 60px;
     right: 40px;
 }
+.container-fluid{
+    color: #ffffff !important;
+}
+
+
